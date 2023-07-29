@@ -1,9 +1,9 @@
-# Hi, I'm Lucas Rodrigues, but you can call me Lucão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá, me chamo Lucas Rodrigues, mas você pode me chamar de Lucão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 📚 Attending the 4rd semester of college
-- 🖥 Information Systems - UNISANTA
-- 🎹 I play the piano
-- 👨🏻‍🏫 taught IT to 4th and 5th grade children
+- 📚 Atualmente estou cursando o 4° semestre da faculdade.
+- 🖥 Sistemas de informação - UNISANTA
+- 🎹 Toco piano casualmente por diversão.
+- 👨🏻‍🏫 Desempenhei o papel de educador de informática para alunos do 4° e 5° ano, abrangendo tanto crianças com necessidades especiais quanto aquelas sem especificidades.
 
 ##### Technology Stack
 
