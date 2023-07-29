@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Rodrigues, but you can call me Lucão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 📚 Attending the 3rd semester of college
+- 📚 Attending the 4rd semester of college
 - 🖥 Information Systems - UNISANTA
 - 🎹 I play the piano
 - 👨🏻‍🏫 taught IT to 4th and 5th grade children
