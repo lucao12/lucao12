@@ -8,12 +8,15 @@
 ##### Technology Stack
 
 <img align="left" alt="Csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Html" width="30px" src="https://cdn.discordapp.com/emojis/787076721907204126.png?v=1" />
 <img align="left" alt="Css" width="30px" src="https://cdn.discordapp.com/emojis/787076754950324264.png?v=1" />
 <img align="left" alt="Javascript" width="30px" src="https://cdn.discordapp.com/emojis/786740835206430720.png?v=1" />
 <img align="left" alt="Github" width="30px" src="https://cdn.discordapp.com/emojis/805913808848683028.png?v=1" />
 <img align="left" alt="Nodejs" width="30px" src="https://cdn.discordapp.com/emojis/805913808677503046.png?v=1" />
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 
 <br/><br/>
 
