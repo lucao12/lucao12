@@ -1,9 +1,12 @@
 # Olá, me chamo Lucas Rodrigues, mas você pode me chamar de Lucão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 📚 Atualmente estou cursando o 4° semestre da faculdade.
-- 🖥 Sistemas de informação - UNISANTA
-- 🎹 Toco piano casualmente por diversão.
-- 👨🏻‍🏫 Desempenhei o papel de educador de informática para alunos do 4° e 5° ano, abrangendo tanto crianças com necessidades especiais quanto aquelas sem especificidades.
+-📚 Atualmente, estou cursando o 4° semestre da faculdade de Sistemas de Informação na UNISANTA.
+
+-🖥 Estudo Sistemas de Informação na UNISANTA, onde busco aprimorar meus conhecimentos em tecnologia.
+
+-🎹 Além dos estudos, dedico parte do meu tempo ao piano, tocando casualmente por pura diversão.
+
+-👨🏻‍🏫 Possuo experiência como educador de informática para alunos do 4° e 5° ano, incluindo crianças com necessidades especiais. Minha dedicação ao ensino abrange tanto aquelas com especificidades quanto aquelas sem necessidades especiais.
 
 ##### Technology Stack
 
