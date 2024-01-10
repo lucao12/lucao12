@@ -1,6 +1,6 @@
 # Olá, me chamo Lucas Rodrigues, mas você pode me chamar de Lucão <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
--📚 Atualmente, estou cursando o 4° semestre da faculdade de Sistemas de Informação na UNISANTA.
+-📚 Atualmente, estou cursando o 5° semestre da faculdade de Sistemas de Informação na UNISANTA.
 
 -🖥 Estudo Sistemas de Informação na UNISANTA, onde busco aprimorar meus conhecimentos em tecnologia.
 
